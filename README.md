@@ -12,7 +12,7 @@
 Void is a low-level imperative programming language built with simplicity and consistency in mind, its currently written in C++ and being actively worked on.
 
 # Examples
-You can view [examples](https://github.com/void-lang/void/tree/master/examples) if you'd like to see how void is planned to look, however its most likely going to changed as Void is still in development.
+You can view [examples](https://github.com/void-lang/void/tree/master/examples) if you'd like to see how void is planned to look, however its most likely going to be changed as Void is still in development.
 
 # Contributors
 [Noxabellus](http://github.com/noxabellus), Check his project out, [Zeta](http://github.com/zeta-lang).
