@@ -1,0 +1,5 @@
+rule Addable:<T> { T + T -> T }
+
+func add:<T: Addable>(a: ^T, b: ^T) -> T {
+  @a + @b
+}

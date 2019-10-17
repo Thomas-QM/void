@@ -1,0 +1,6 @@
+open std;
+
+kind my_kind {
+  a: std.String,
+  b: s32
+}

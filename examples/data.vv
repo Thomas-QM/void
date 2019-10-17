@@ -1,0 +1,6 @@
+open std;
+
+data my_struct {
+  a: std.String,
+  b: s32
+}

@@ -1,0 +1,6 @@
+open std.io;
+
+func main() -> s32 {
+  std.io.println("Hello, World!");
+  0
+}

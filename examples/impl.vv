@@ -1,0 +1,12 @@
+open std;
+
+data my_struct {
+  a: s32,
+  b: std.String
+}
+
+impl my_struct {
+  func do_task(^self) -> s32 {
+    self.a * self.a
+  }
+}
