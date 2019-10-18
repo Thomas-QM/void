@@ -3,7 +3,7 @@
 <div align='center'>
   <strong>A modern, minimal programming language built for high performance use cases.</strong>
   <br><br>
-  <a href = 'https://discord.gg/QFfQNEF'>
+  <a href = 'https://discord.gg/wD2FxTs'>
     <img src='https://img.shields.io/discord/634186753590165535?label=Discord&style=for-the-badge' alt='Discord Server'/>
   </a>
 </div>
