@@ -14,3 +14,6 @@ Void is a low-level imperative programming language built with simplicity and co
 # Examples
 You can view [examples](https://github.com/void-lang/void/tree/master/examples) if you'd like to see how void is planned to look, however its most likely going to be changed as void is still in development.
 
+# Contributors
+- [Levy](http://github.com/levyde), Founder and financer of void and all subsidaries.
+- [ThomasQM](http://github.com/thomas-qm), Developer of [cplus](https://github.com/thomas-qm/cplus).
